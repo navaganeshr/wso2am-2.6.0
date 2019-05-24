@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoint xmlns="http://ws.apache.org/ns/synapse"
+          name="Customer_Management_API--vv1.0.0_APIproductionEndpoint">
+   <http uri-template="http://ec2-3-16-47-213.us-east-2.compute.amazonaws.com">
+      <timeout>
+         <responseAction>fault</responseAction>
+      </timeout>
+   </http>
+   <property name="ENDPOINT_ADDRESS"
+             value="http://ec2-3-16-47-213.us-east-2.compute.amazonaws.com"/>
+</endpoint>

@@ -1,0 +1,12 @@
+2019-05-23 19:06:46,468 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-05-23 19:06:49,006 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-05-23 19:06:49,263 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-05-24 06:38:45,796 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-05-24 06:38:45,900 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-05-24 06:38:45,901 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-05-24 11:59:27,981 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-05-24 11:59:28,073 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-05-24 11:59:28,080 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2019-05-24 12:30:52,520 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2019-05-24 12:30:52,586 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2019-05-24 12:30:52,588 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
